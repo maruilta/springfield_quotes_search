@@ -1,0 +1,30 @@
+body {
+    background: url(https://image.freepik.com/vector-gratis/patron-donas-sobre-fondo-amarillo_70484-69.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    list-style: none;
+    font-family: "Roboto Condensed", sans-serif;
+}
+.navbar-light{
+    background-color: #FFD571;
+}
+.card-deck{
+    margin: 2rem;
+}
+.card{
+    padding: 0.75rem;
+    border-radius: 20px;
+}
+.search-title{
+    font-size:35px;
+    color: whitesmoke;
+    text-align: center;
+    margin: 2rem;
+}
+#search-results{
+    margin: 1rem auto;
+    width: 30%;
+}
